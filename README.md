@@ -17,3 +17,7 @@ Day 1
 
 Day 2  
    * [Puzzle 1](2020/Day02-Puzzle-1.ps1) - [Puzzle 2](2020/Day02-Puzzle-2.ps1)
+
+Day 3  
+   * [Puzzle 1](2020/Day03-Puzzle-1.ps1) - [Puzzle 2](2020/Day03-Puzzle-2.ps1)
+
